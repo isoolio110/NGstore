@@ -1,0 +1,23 @@
+{
+  "name": "NGstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GA-Trio/NGstore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GA-Trio/NGstore/issues"
+  },
+  "homepage": "https://github.com/GA-Trio/NGstore",
+  "dependencies": {
+    "angular": "^1.3.15",
+    "express": "^4.12.3"
+  }
+}
